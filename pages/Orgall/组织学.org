@@ -983,7 +983,7 @@ C字形的软骨环，透明软骨环
 
 *** 睾丸
 #+DOWNLOADED: screenshot @ 2021-02-07 11:24:02 
-[[file:../Attachment/生殖系统/2021-02-07_11-24-02_screenshot.png]]{:height 24, :width 578}
+[[file:../Attachment/生殖系统/2021-02-07_11-24-02_screenshot.png]]{:height 32, :width 578}
 **** 生精小管
 
 ***** 生精细胞
