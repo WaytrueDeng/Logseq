@@ -950,7 +950,7 @@ C字形的软骨环，透明软骨环
 - 游离面有刷状缘
 - 基底面有纵纹为质膜内褶
 #+DOWNLOADED: screenshot @ 2021-02-06 21:18:26
-[[file:../Attachment/泌尿系统/2021-02-06_21-18-26_screenshot.png]]{:height 8, :width 506}
+[[file:../Attachment/泌尿系统/2021-02-06_21-18-26_screenshot.png]]{:height 16, :width 506}
 ***** 远端小管
 ****** 远直小管
 - 单层立方上皮
