@@ -982,7 +982,7 @@ C字形的软骨环，透明软骨环
 ** 男性生殖系统
 
 *** 睾丸
-[[file:../Attachment/生殖系统/2021-02-07_11-24-02_screenshot.png][image]]
+[[../Attachment/生殖系统/2021-02-07_11-24-02_screenshot.png][image]]
 **** 生精小管
 
 ***** 生精细胞
